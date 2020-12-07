@@ -4,7 +4,7 @@
 
 ➡️ Este escrito esta enfocado para todas las personas que quieran aprender lo básico acerca de las inyecciones sql
 
-➡️ No es necesarío que tengas conociemiento del tema
+➡️ No es necesarío que tengas conocimiento del tema
 
 
 ## Texto en Español:
